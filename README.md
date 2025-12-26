@@ -1,4 +1,4 @@
-# 📊 Retail Sales Dashboard (Excel)
+# 📊 Retail Sales Performance Dashboard 
 
 ## 📌 Project Overview
 
